@@ -14,4 +14,6 @@ PLA Preheat higher
 PETG Preheat higher
 SD-Card, sort by create-time. Newest first.
 
+more Infos <a href="https://www.thingiverse.com/thing:4864254/files">on Thingiverse</a>
+
 I hope you have fun.
