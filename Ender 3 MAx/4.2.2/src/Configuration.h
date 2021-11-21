@@ -141,7 +141,7 @@
 
 // Choose the name from boards.h that matches your setup
 #ifndef MOTHERBOARD
-  #define MOTHERBOARD BOARD_CREALITY_V4 //BOARD_CREALITY_V427 (für 4.2.2) Jumbo125
+  #define MOTHERBOARD BOARD_CREALITY_V4 //BOARD_CREALITY_V427 (für 4.2.7) Jumbo125
 #endif
 
 // Name displayed in the LCD "Ready" message and Info menu
