@@ -1,5 +1,5 @@
 # Ender-3-Max-Marlin-2.0.x-4.2.2-and-4.2.7-board
-##Marlin 2.0 for Ender 3 Max, 4.2.2 and 4.2.7 Board
+## Marlin 2.0 for Ender 3 Max, 4.2.2 and 4.2.7 Board
 
 ![GitHub](https://img.shields.io/github/license/marlinfirmware/marlin.svg)
 ![GitHub contributors](https://img.shields.io/github/contributors/marlinfirmware/marlin.svg)
@@ -7,11 +7,12 @@
 [![Build Status](https://github.com/MarlinFirmware/Marlin/workflows/CI/badge.svg?branch=bugfix-2.0.x)](https://github.com/MarlinFirmware/Marlin/actions)
 
 <img align="right" width=175 src="buildroot/share/pixmaps/logo/marlin-250.png" />
-
+ !IMPORTANT! 
+ I use the marlin software and edit some code parts, to pass it for my Ender 3 Max.
+ It isn't my own work, so i thank the marlin developers for this great work!
+ 
 Additional documentation can be found at the [Marlin Home Page](https://marlinfw.org/).
 Please test this firmware and let us know if it misbehaves in any way. Volunteers are standing by!
-
-## Marlin 2.0 Bugfix Branch
 
 __Not for production use. Use with caution!__
 
